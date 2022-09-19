@@ -1,0 +1,15 @@
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\bin\Debug\net6.0\CalculoFatorial.exe
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\bin\Debug\net6.0\CalculoFatorial.deps.json
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\bin\Debug\net6.0\CalculoFatorial.runtimeconfig.json
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\bin\Debug\net6.0\CalculoFatorial.dll
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\bin\Debug\net6.0\CalculoFatorial.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.csproj.AssemblyReference.cache
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.AssemblyInfoInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.AssemblyInfo.cs
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.dll
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\refint\CalculoFatorial.dll
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\CalculoFatorial.genruntimeconfig.cache
+C:\Users\yuri.ramos.f.souza\source\repos\CalculoFatorial\CalculoFatorial\obj\Debug\net6.0\ref\CalculoFatorial.dll
